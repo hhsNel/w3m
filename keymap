@@ -162,6 +162,7 @@ keymap J NEXT_TAB
 keymap K PREV_TAB
 keymap o GOTO
 keymap O TAB_GOTO
+keymap q CLOSE_TAB
 
 # Search
 keymap / WHEREIS

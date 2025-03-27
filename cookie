@@ -1,3 +1,14 @@
+https://www.wikipedia.org/	NetworkProbeLimit	0.001	1743112156	www.wikipedia.org	/	11	0			
+https://www.wikipedia.org/	WMF-Last-Access	27-Mar-2025	1745841600	www.wikipedia.org	/	11	0			
+https://www.howtogeek.com/103574/how-to-browse-from-the-linux-terminal-with-w3m/	promotionVisitedLinks	%7B%22allPages%22%3A%5B%5D%2C%22articlePages%22%3A%5B%5D%2C%22loginPages%22%3A%5B%5D%2C%22ratingPages%22%3A%5B%5D%7D	2058468353	www.howtogeek.com	/	9	0			
+https://www.howtogeek.com/103574/how-to-browse-from-the-linux-terminal-with-w3m/	articlesLimitRate	%7B%22visited_links%22%3A%5B%22103574%5C%2Fhow-to-browse-from-the-linux-terminal-with-w3m%22%5D%2C%22limit_reached%22%3Afalse%2C%22expire_time%22%3A%22%22%7D	2058468353	www.howtogeek.com	/	9	0			
+https://www.howtogeek.com/103574/how-to-browse-from-the-linux-terminal-with-w3m/	articlesReadPerDay	%5B%7B%22permalink%22%3A%22103574%5C%2Fhow-to-browse-from-the-linux-terminal-with-w3m%22%2C%22timestamp%22%3A1743108343%7D%5D	2058468353	www.howtogeek.com	/	9	0			
+https://www.howtogeek.com/103574/how-to-browse-from-the-linux-terminal-with-w3m/	articlesLimitDepth	%7B%22visited_links%22%3A%5B%22103574%5C%2Fhow-to-browse-from-the-linux-terminal-with-w3m%22%5D%2C%22came_from_homepage%22%3Afalse%2C%22expire_time%22%3A%22%22%2C%22limit_reached%22%3Afalse%7D	2058468353	www.howtogeek.com	/	9	0			
+https://www.howtogeek.com/103574/how-to-browse-from-the-linux-terminal-with-w3m/	unauthenicatedArticleLimitReached	false	2058468353	www.howtogeek.com	/	9	0			
+https://www.howtogeek.com/103574/how-to-browse-from-the-linux-terminal-with-w3m/	previousPage	%2F103574%2Fhow-to-browse-from-the-linux-terminal-with-w3m%2F	1745700353	www.howtogeek.com	/	9	0			
+https://en.wikipedia.org/wiki/W3m	NetworkProbeLimit	0.001	1743111950	en.wikipedia.org	/	11	0			
+https://en.wikipedia.org/wiki/W3m	WMF-DP	89f	1743120000	en.wikipedia.org	/	11	0			
+https://w3m.sourceforge.net/	__cf_bm	pg5FG8YXLLja3J1TvtTx4HlEyf_sEv6oLHMo7e7oWww-1743108337-1.0.1.1-FjEEUUZVWv.TIcGSDWetfEqn93f4WLef4nj48nv1dSXpJOFoiUGsf.RLE_UVoY7rCHe_e6h_jfmPlrxunDnU66QlhirryWMrmRY0GNu3nt8	1743110137	.sourceforge.net	/	15	0			
 https://pl.wikipedia.org/wiki/Tratwa_Meduzy	WMF-Last-Access	26-Mar-2025	1745755200	pl.wikipedia.org	/	11	0			
-https://pl.wikipedia.org/wiki/Tratwa_Meduzy	WMF-Last-Access-Global	26-Mar-2025	1745755200	.wikipedia.org	/	15	0			
-https://en.wikipedia.org/wiki/Salisbury_Cathedral	WMF-Last-Access	26-Mar-2025	1745755200	en.wikipedia.org	/	11	0			
+https://en.wikipedia.org/wiki/W3m	WMF-Last-Access-Global	27-Mar-2025	1745841600	.wikipedia.org	/	15	0			
+https://en.wikipedia.org/wiki/W3m	WMF-Last-Access	27-Mar-2025	1745841600	en.wikipedia.org	/	11	0			

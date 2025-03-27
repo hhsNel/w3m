@@ -163,6 +163,8 @@ keymap K PREV_TAB
 keymap o GOTO
 keymap O TAB_GOTO
 keymap q CLOSE_TAB
+keymap r RELOAD
+keymap R RESHAPE
 
 # Search
 keymap / WHEREIS

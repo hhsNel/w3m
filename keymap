@@ -144,6 +144,8 @@ keymap I TAB_LINK
 # NPage Navigation
 keymap j COMMAND "MOVE_DOWN1"
 keymap k COMMAND "MOVE_UP1"
+keymap TAB NEXT_LINK
+keymap C-TAB PREV_LINK
 
 # Undo
 keymap C-r REDO
